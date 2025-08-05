@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+data/
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# TensorFlow/Keras
+*.h5
+*.keras
+saved_model/
+
+# Data
+data/processed/
+
+# VS Codes
+
+# IDEs
+.idea/
+.project/
+.DS_Store
